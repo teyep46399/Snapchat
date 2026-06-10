@@ -1,0 +1,2 @@
+# Snapchat
+Snapchat for MacOS
